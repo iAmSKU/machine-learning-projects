@@ -2,7 +2,7 @@
 # pip install streamlit
 # pip install scikit-learn
 # pip install pandas
-# pip install numpy
+# pip install pickle
 
 # Please use below command to run
 # streamlit run .\main.py
